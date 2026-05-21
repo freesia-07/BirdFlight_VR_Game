@@ -1,5 +1,5 @@
 # BirdFlight_VR_Game
-Gamification project
+Gamification project full folder link : "https://drive.google.com/drive/folders/12ihrRPISXzFAhoc5-7YFT0TN2y9wC42j?usp=sharing"
 
 **Tutorial videos** :
   1. Terrain and Scene build (realistic): "https://youtu.be/2UFvOHlI7BY?si=Wd5zc_qXsZXYpSrS"
